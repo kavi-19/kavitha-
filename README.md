@@ -42,11 +42,11 @@ I occasionally write about my experiences and share tips on full-stack developme
 
 You can reach out to me via email at [your-email@example.com](kavithakaari1924@gmail.com).
 
-## 🔭 Current course status
+##  Current course status
 
 - I have just started my learning journey in spotknack.Glad to say that I'm one of the member @spotknack.Updating my knowledge and developing my skills for the betterment of my future.Thanks #spotknack #Full stack 
 
-## 🌱 Future Goals
+##  Future Goals
 
 #placement<br>
 #IT<br>
