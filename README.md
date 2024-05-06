@@ -1,6 +1,4 @@
-# Hello! it's me,
-
-
+# Hello! it's me
 Kavitha k <br>
 I'm a student | Passionate about software development |<br>
 I’m constantly ready to learn new things and contribute to innovative initiatives. I’m a student with a strong interest for full stack programming who is driven and aspirational.<
